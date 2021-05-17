@@ -1,0 +1,32 @@
+#app{
+    height: 100%;
+}
+.nav-r{
+    text-align: justify;
+    width:33%;
+}
+.nav-l{
+    text-align: right;
+    width:17%;
+}
+
+.nav-m{
+    padding-left: 50%;
+}
+
+.nav-search {
+    text-align : right;
+    width :80%;
+}
+.nav-back {
+    text-align: left;
+    width: 20%;
+}
+.video{
+    width:100%;
+    height :10%;
+}
+
+.sub-nav{
+    width :20%;
+}

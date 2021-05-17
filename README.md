@@ -1,1 +1,0 @@
-# vue-mock-chat-app
